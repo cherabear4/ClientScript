@@ -1,4 +1,4 @@
-![image logo](./logo.png)
+![image logo](ClientScript.png)
 
 # ClientScript
 https://docs-clientscript.netlify.app
